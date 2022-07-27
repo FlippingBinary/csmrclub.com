@@ -1,6 +1,6 @@
 <svelte:head>
   <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
-  <title>WV Sports Legends Banquet 2019</title>
+  <title>CSMR - Computer Science Mathematics and Robotics</title>
 </svelte:head>
 
 <div class="grid h-screen place-items-center">
