@@ -9,3 +9,23 @@ declare namespace App {
 	// interface Session {}
 	// interface Stuff {}
 }
+
+declare module '*&image' {
+	const out: string;
+	export default out;
+}
+
+declare module '*&imagearray' {
+	const out: Array<string>;
+	export default out;
+}
+
+declare module '*&metadata' {
+	const out: OutputMetadata;
+	export default out;
+}
+
+declare module '*&srcset' {
+	const out: string;
+	export default out;
+}
